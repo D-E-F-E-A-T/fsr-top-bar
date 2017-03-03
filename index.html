@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>FSR Components - Top Bar</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="author" content="fredsrocha@jcappsinc.com">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@FsrComponents">
+  <meta name="twitter:creator" content="@fredsrocha">
+  <meta name="twitter:title" content="FSR Components">
+  <meta name="twitter:description" content="Components for developers.">
+  <meta name="twitter:image" content="http://fsrcomponents.jcappsinc.com/imgs/brand/components/logo-white-300.jpg"> 
+  <link rel="stylesheet" href="css/style.css">  
+</head>
+<body>
+  <svg class="svg-source" width="0" height="0" aria-hidden="true">
+    <symbol id="svg-arrow-left" viewbox="0 0 24 24">
+      <title>Arrow Left Icon</title>
+      <path d="M20,11H7.8l5.6-5.6L12,4l-8,8l8,8l1.4-1.4L7.8,13H20V11z"></path>
+    </symbol>
+    <symbol id="svg-hamburger" viewbox="0 0 48 48">
+      <title>Hamburger Icon</title>
+      <path d="M6 36h36v-4H6v4zm0-10h36v-4H6v4zm0-14v4h36v-4H6z"></path>
+    </symbol>
+  </svg>
+  <main>
+    <nav id="fsr-top-bar">
+      <ul>
+        <li>
+          <a href="#" tabindex="-1">
+            <svg class="fsr-ic-top-bar-close" role="presentation" aria-hidden="true">
+              <use xlink:href="#svg-arrow-left"></use>
+            </svg><span class="fsr-top-bar-btn-close-title">Close</span></a>
+        </li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Contact</a></li>
+        <li>
+          <a id="fsr-top-bar-btn-open" href="#fsr-top-bar">
+            <svg class="fsr-ic-top-bar-burguer" role="presentation" aria-hidden="true">
+              <use xlink:href="#svg-hamburger"></use>
+            </svg><span class="fsr-top-bar-btn-open-title"> Menu</span></a>
+        </li>
+      </ul>
+    </nav>
+    <article role="application">
+      <header>
+        <h1><a class="btn-pulsing" href="https://github.com/fredsrocha/fsr-top-bar"><img src="http://fsrcomponents.jcappsinc.com/imgs/favicon/top-bar/favicon-96x96.png" title="Go to GitHub"></a></h1>
+      </header>
+      <section>
+        <p>
+          <b>T</b>op <b>B</b>ar
+        </p>
+      </section>
+      <footer>
+        <p>&copy; 2017 FSR COMPONENTS</p>
+      </footer>
+    </article>
+  </main>
+</body>
+</html>
