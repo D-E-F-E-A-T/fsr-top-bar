@@ -8,7 +8,11 @@
 
 # Top Bar
 
+View page: [GitHub Pages](https://fredsrocha.github.io/fsr-top-bar/)
+
 :gift: Top bar. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
+
+View article: [Responsive Smart Grid](http://codepen.io/fredsrocha/post/top-bar)
 
 [![FSR Components - Twitter](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
 
