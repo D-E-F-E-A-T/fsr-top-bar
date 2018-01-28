@@ -6,7 +6,7 @@
 
 # Top Bar Responsive
 
-:gift: [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
+###### :gift: [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-top-bar/)
 
