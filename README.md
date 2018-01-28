@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
 
-# Top Bar
+# Top Bar Responsive
 
 :gift: Top bar. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
