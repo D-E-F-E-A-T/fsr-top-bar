@@ -10,9 +10,9 @@
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-top-bar/)
 
-**ARTICLE:** [Responsive Smart Grid](http://codepen.io/fredsrocha/post/top-bar)
+**ARTICLE:** [Top Bar](http://codepen.io/fredsrocha/post/top-bar)
 
-**CODEPEN:** [Responsive Smart Grid](https://codepen.io/fredsrocha/pen/JWXmVV)
+**CODEPEN:** [Top Bar](https://codepen.io/fredsrocha/pen/JWXmVV)
 
 <table>
   <thead>
